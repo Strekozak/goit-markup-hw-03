@@ -78,10 +78,7 @@ img {
 }
 
 .header-logo .color {
-    display: block;
-    padding-top: 24px;
-    padding-bottom: 24px;
-    
+    display: block;        
     color: var(--color-navy-blue);
 }
 
@@ -208,7 +205,6 @@ img {
 
 /* what are we doing */
 .section-works {
-    padding-top: 120px;
     padding-bottom: 120px;
 }
 
